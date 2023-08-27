@@ -1,4 +1,4 @@
-# Discrete Growth Model with Long-Range Correlated Noise
+# the Discrete Growth Models with Long-Range Correlated Noise
 This work is down by Zichen Song, Supervised by Prof. Xia, Hui
 Sponsored by School of Materials Science and Physics, China University of Mining and Technology
 
